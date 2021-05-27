@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kreutonz,
+- 👋 Hi, I’m Mike Kreutz (@Kreutonz),
 - I am a Software Systems student currently studying at Simon Fraser University
 - Began my coding journey through Udacity's learning platform finding an immediate passion for coding
 - Know how to code in C++ & Java quite well
